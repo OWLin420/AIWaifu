@@ -1,6 +1,6 @@
 ## How to use
 
-[If you just want to use this program, use this link]
+[If you just want to use this program, use this link](https://owlin420.github.io/AIWaifu/)
 
 ### For Devs
 
