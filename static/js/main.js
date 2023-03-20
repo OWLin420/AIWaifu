@@ -244,10 +244,10 @@ function onInteract(model, getInteraction) {
     app.stage.addChild(background_model);
 
     function resizeBackground() {
-        let scale = Math.max(window.innerHeight * .000001, window.innerWidth * .00070);
+        let scale = Math.max(window.innerHeight * .0010, window.innerWidth * .00070);
         background_model.scale.set(scale);
         background_model.x = -10;
-        background_model.y = -200;
+        
     }
     resizeBackground();
 
