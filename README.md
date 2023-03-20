@@ -1,28 +1,6 @@
-# unsuperior-ai-waifu
-
-![Demo](doc/demo.gif)
-
-Neuro-sama knockoff that runs completely in your browser. Should run on anything, but the page layout is janky on anything but a mobile phone.
-
-## Features
-
-* Completely free with given free credits.
-* Easy to run.
-* You can interact with her by poking her. I wouldn't recommend it though.
-* The mouths of normal VTubers, neurosama move based on the volume of their speech. USAW's mouth movements are more accurate because they're based off the phonetic sound she's making. Works, but WIP
-* She has various expressions that change depending on her emotion
-* Choose her accent
-* She has emotional voices (she can sound happy, sad, etc)
-
-## Goals
-
-* I want this project to be easy to use by most people. Ideally, all people should have to do is sign up for some websites, get API keys, and fill out the form on my website.
-* It should be easy to host for me. This is a bunch of static HTML/CSS/JS files so I can easily host it on GH pages.
-* It should be pretty cross-platform. I don't want to have to maintain a bunch of different versions of this for everyone.
-
 ## How to use
 
-[If you just want to use this program, use this link](https://hackdaddy.dev/blog/unsuperior-ai-waifu/)
+[If you just want to use this program, use this link]
 
 ### For Devs
 
@@ -59,7 +37,7 @@ Choose one of the following
 |---------------|--------------------------------------------------------------------------|-----------|
 | model         | Name of waifu model. See `/models.json`                                  | yes       |
 | username      | Your name (Purely cosmetic)                                              | no        |
-| name          | your waifu's name                                                        | no        |
+| waifuname     | your waifu's name                                                        | no        |
 | prompt        | The base prompt that will be used when generating your waifu's dialogue. | yes       |
 
 ## How to add your own model
