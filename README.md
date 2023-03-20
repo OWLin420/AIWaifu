@@ -8,7 +8,7 @@ If you want to make changes to the code and test them out, you need to create a 
 
 This program takes many parameters as GET parameterss through the URL. Example:
 
-`https://owlin420.github.io/AIWaifu//usaw/?openai=sk-12345&engine=native&model=shizuki&prompt=She%20loves%20me%20even%20though%20I%27m%20not%20funny`
+`https://owlin420.github.io/AIWaifu/usaw/?openai=sk-12345&engine=native&model=shizuki&prompt=She%20loves%20me%20even%20though%20I%27m%20not%20funny`
 
 ### Parameters
 
