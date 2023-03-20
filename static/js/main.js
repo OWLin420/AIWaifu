@@ -246,7 +246,7 @@ function onInteract(model, getInteraction) {
     function resizeBackground() {
         let scale = Math.max(window.innerHeight * .000001, window.innerWidth * .00070);
         background_model.scale.set(scale);
-        background_model.x = 10;
+        background_model.x = -10;
         background_model.y = -200;
     }
     resizeBackground();
